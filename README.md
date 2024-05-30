@@ -1,2 +1,6 @@
-# Streamlit-projects-
-The streamlit projects that I will make from now on will be stored  here
+# Streamlit-projects
+Two projects have been made here.
+
+1. Audio Recoder using streamlit
+
+2. Salary Predictor using streamlit
