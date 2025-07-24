@@ -1,0 +1,22 @@
+
+streamlit
+streamlit-chat
+
+langchain
+langchain-community
+langchain-google-genai
+langchain-openai
+-U langchain-community
+
+google-generativeai
+
+
+faiss-cpu
+sentence-transformers
+
+pypdf
+
+cohere
+
+numpy
+pandas
